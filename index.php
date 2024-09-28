@@ -10,6 +10,7 @@
 </head>
 <body>
 <?php include './client/header.php'?>
+<?php include './client/signup.php'?>
 
 
 </body>

@@ -15,6 +15,9 @@
           <a class="nav-link text-primary-emphasis" href="#">Login</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link text-primary-emphasis" href="#">Sign Up</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link text-primary-emphasis" href="#">Category</a>
         </li>
         <li class="nav-item">
