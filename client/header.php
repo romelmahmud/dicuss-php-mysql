@@ -9,13 +9,13 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link text-primary-emphasis"  href="#">Home</a>
+          <a class="nav-link text-primary-emphasis"  href="./">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-primary-emphasis" href="#">Login</a>
+          <a class="nav-link text-primary-emphasis" href="?login=true">Login</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-primary-emphasis" href="#">Sign Up</a>
+          <a class="nav-link text-primary-emphasis" href="?signup=true">Sign Up</a>
         </li>
         <li class="nav-item">
           <a class="nav-link text-primary-emphasis" href="#">Category</a>
